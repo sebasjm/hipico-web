@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ar.com.sebasjm.hipic</groupId>
+    <version>1</version>
+    <artifactId>hipic-mods</artifactId>
+    <packaging>pom</packaging>
+    <name>Hipic Multimodule</name>
+    <description>
+        Hipic App
+    </description>
+
+    <scm>
+        <connection>scm:git:git://git@github.com:sebasjm/hipico-web.git</connection>
+        <developerConnection>scm:git:git://git@github.com:cvgram/hipico-web.git</developerConnection>
+    </scm>
+
+    <modules>
+            <module>parent</module>
+            <module>web</module> 
+            <module>service</module>
+            <module>model</module>
+    </modules>
+</project>
+

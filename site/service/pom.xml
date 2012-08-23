@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>ar.com.sebasjm.hipic</groupId>
+        <version>1</version>
+        <artifactId>parent</artifactId>
+        <relativePath>../parent/pom.xml</relativePath>
+    </parent>
+
+    <version>1</version>
+    <artifactId>service</artifactId>
+    <packaging>jar</packaging>
+    <name>Hipic Core</name>
+    <description>
+        service app
+    </description>
+
+    
+</project>
